@@ -1,7 +1,7 @@
 users = [
     {'name': 'Sergio', 'login': 'Sergio123', 'parol': 'I don not need parol!!!!'},
     {'name': 'Nicita', 'login': 'Nicita123', 'parol': 'I don not need parol!!!!'},
-    {'name': 'Artur', 'login': 'Artur123', 'parol': 'I don not need parol!!!!'},
+    {'name': 'Artur', 'login': 'Artur123', 'parol': 'I '},
     {'name': 'Anastasia', 'login': 'Anastasia', 'parol': 'I don not need parol!!!!'},
     {'name': 'Kat', 'login': 'Kat123', 'parol': 'I don not need parol!!!!'}
 ]
